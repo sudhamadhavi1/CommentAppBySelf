@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.app-container {
+  height: 100vh;
+}
+
+.comment-writing-container {
+  height: 30vh;
+  display: flex;
+}
